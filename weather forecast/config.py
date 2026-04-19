@@ -1,6 +1,6 @@
 # OpenWeatherMap API Key
 # Sign up at https://openweathermap.org/ to get your FREE API key
-API_KEY = "5b199c0fc4e9cd0002e0e23f73ef0efb"
+API_KEY = "enter your api key"
 
 # API Configuration
 BASE_URL = "https://api.openweathermap.org/data/2.5/"
